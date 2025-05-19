@@ -94,7 +94,7 @@ Click on your Domain Controller VM. On the side, click on "networking" and then 
 <img width="1033" alt="Screenshot 2025-05-15 at 12 27 22 PM" src="https://github.com/user-attachments/assets/be09168a-c0cb-4dc4-ba4e-3fba7135a483" />
 </p>
 <p>
-Copy the Domain Controller's VM public IP address. Go to remote desktop, click the "+" sign at the top and choose "Add PC". Paste the IP address for "PC Name". Choose a name for "Friendly name", for example: "dc-1". Click "Add" then double click it and log into it. Once in the VM, right click the start menu and click "run". Type "wf.msc". Under "Public Profile is Active" click "Windows Defender Firewall Properties". Under "Domain Profile", "Private Profile" and "Public Profile" make sure "Firewall state" is off. Then click "apple" and "ok". 
+Copy the Domain Controller VM's public IP address. Go to remote desktop, click the "+" sign at the top and choose "Add PC". Paste the IP address for "PC Name". Choose a name for "Friendly name", for example: "dc-1". Click "Add" then double click it and log into it. Once in the VM, right click the start menu and click "run". Type "wf.msc". Under "Public Profile is Active" click "Windows Defender Firewall Properties". Under "Domain Profile", "Private Profile" and "Public Profile" make sure "Firewall state" is off. Then click "apple" and "ok". 
 </p>
 <br />
 
