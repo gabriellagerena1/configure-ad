@@ -46,7 +46,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Configure account lockout policy
 - Dealing with account lockouts
 - Enabling and disabling accounts
-- 
+  
 
 <h2>Deployment and Configuration Steps</h2>
 
